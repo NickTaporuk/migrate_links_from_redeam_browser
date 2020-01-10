@@ -4,4 +4,4 @@ https://control.imena.ua/login.php?backref=/domains.php
 
 https://docs.mapbox.com/android/maps/overview/
 
-
+https://www.padok.fr/en/blog/kubernetes-google-cloud-platform-app-helm
